@@ -1,5 +1,4 @@
 [![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
-<!-- These are examples of badges you might also want to add to your README. Update the URLs accordingly.
 [![Built Status](https://api.cirrus-ci.com/github/<USER>/airbnb_predict.svg?branch=main)](https://cirrus-ci.com/github/<USER>/airbnb_predict)
 [![ReadTheDocs](https://readthedocs.org/projects/airbnb_predict/badge/?version=latest)](https://airbnb_predict.readthedocs.io/en/stable/)
 [![Coveralls](https://img.shields.io/coveralls/github/<USER>/airbnb_predict/main.svg)](https://coveralls.io/r/<USER>/airbnb_predict)
@@ -7,7 +6,7 @@
 [![Conda-Forge](https://img.shields.io/conda/vn/conda-forge/airbnb_predict.svg)](https://anaconda.org/conda-forge/airbnb_predict)
 [![Monthly Downloads](https://pepy.tech/badge/airbnb_predict/month)](https://pepy.tech/project/airbnb_predict)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter)](https://twitter.com/airbnb_predict)
--->
+
 
 # airbnb_predict
 
