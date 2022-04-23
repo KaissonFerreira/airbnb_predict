@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "airbnb_pred"
-version = "0.1.0"
-description = ""
-authors = ["KaissonFerreira <kaysson_17@hotmail.com>"]
+name = "airbnb prediction"
+version = "0.1"
+description = "Esse projeto visa construir um algoritmo que seja capaz de predizer o primeiro destino que o usuário irá escolher no Airbnb."
+authors = ["Kaisson Ferreira <kaysson_17@hotmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "3.9.8"
+pandas = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
