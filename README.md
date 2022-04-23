@@ -18,15 +18,15 @@
 
             * Oferta (Pessoas oferecem acomodação)
 
-                -- Tamanho do portifólio
-                -- Diversidade/densidade de portifólio.
-                -- Preço médio.
+                - Tamanho do portifólio
+                - Diversidade/densidade de portifólio.
+                - Preço médio.
 
             * Demanda (Pessoas procurando acomodação)
 
-                -- Número de usuários
-                -- LTV (Lifetime Value - Quanto que a pessoa vai gastar com a empresa)
-                -- CAC (Client Acquisition Cost - Custo por cliente)
+                - Número de usuários
+                - LTV (Lifetime Value - Quanto que a pessoa vai gastar com a empresa)
+                - CAC (Client Acquisition Cost - Custo por cliente)
 
                 Gross Revenue (Margem de lucro) = (fee * Número de usuário) - CAC
                 
@@ -39,9 +39,9 @@
         * 1.0. Salvar a predição em tabelas no banco de dados para ser acessada por meio de uma ferramenta de visualização.
         * 2.0. Construção de API e acesso por meio dela:
         
-            -- Input: Usuário coloca suas características.
+            - Input: Usuário coloca suas características.
             
-            -- Output: Mostra as características do usuário e a **predição do destino**.
+            - Output: Mostra as características do usuário e a **predição do destino**.
 
 ---
 ## Project Organization
